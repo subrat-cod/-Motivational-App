@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42205508290",
+    "project_id": "anunayamotivationapp",
+    "storage_bucket": "anunayamotivationapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42205508290:android:0d07d1ed060279719d815b",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfxHQz4-xbiVRAgK5QpdC0xBka0_jt_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
